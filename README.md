@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A simple tic tac toe.
+A  simple Tic-tac-toe with attractive GUI.
